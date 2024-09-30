@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\laragon\www\terminal\phpunit.xml.dist" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.074504">
+    <testsuite name="App" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.074504">
+      <testsuite name="ExampleSessionTest" file="C:\laragon\www\terminal\tests\session\ExampleSessionTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.074504">
+        <testcase name="testSessionSimple" file="C:\laragon\www\terminal\tests\session\ExampleSessionTest.php" line="11" class="ExampleSessionTest" classname="ExampleSessionTest" assertions="1" time="0.074504"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
